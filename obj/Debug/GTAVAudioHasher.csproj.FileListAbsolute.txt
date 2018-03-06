@@ -1,7 +1,0 @@
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\bin\Debug\GTAVAudioHasher.exe.config
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\bin\Debug\GTAVAudioHasher.exe
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\bin\Debug\GTAVAudioHasher.pdb
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\obj\Debug\GTAVAudioHasher.csprojResolveAssemblyReference.cache
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\obj\Debug\GTAVAudioHasher.csproj.CoreCompileInputs.cache
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\obj\Debug\GTAVAudioHasher.exe
-C:\Users\Jack Sui\Documents\Visual Studio 2017\Projects\GTAVAudioHasher\obj\Debug\GTAVAudioHasher.pdb
